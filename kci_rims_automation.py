@@ -137,7 +137,7 @@ EXTRACT_TIMEOUT = 600                 # 전체추출 완료 알림 대기(초)
 # ── KCI 논문 반입 (--kci) ───────────────────────────────
 TEXT_RIMS_KCI_SUBMENU = "KCI데이터반입"
 TEXT_RIMS_KCI_MAP_SUBMENU = "KCI저자매핑"
-KCI_AFFIL_KEYWORDS = ["한국철도기술연구원", "Korea Railroad Research Institute"]  # 각각 검색해서 각각 반입
+KCI_AFFIL_KEYWORDS = ["", ""]  # 각각 검색해서 각각 반입
 TEXT_KCI_AFFIL_LABEL = "소속기관"      # '저자 소속기관' 입력칸 앞 글자
 TEXT_KCI_PUBDATE_LABEL = "발행연월"    # 시작 칸에 올해 01월(예: 202601)
 TEXT_KCI_DEDUP = "중복선택해제"
